@@ -1,0 +1,47 @@
+.card{
+    width: 90%;
+    margin-top: 20px;
+    overflow-x: scroll;
+    
+}
+
+.column{
+    padding: 10px;
+}
+
+.header_checkbox{
+    display: flex;
+    align-items: center;
+}
+.overlay-btn{
+    background-color: transparent;
+    border: 0;
+    margin-left: 10px;
+}
+
+.input_con{
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.input_con input{
+    margin-bottom: 16px;
+    height: 20px;
+}
+
+.input_con button{
+    height: 30px;
+    width: 60%;
+    background-color: transparent;
+    border-radius: 5px;
+    
+}
+
+th{
+    padding: 20px;
+}
+tbody{
+    padding: 10px;
+}
